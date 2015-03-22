@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HnAndroid.iml" filepath="$PROJECT_DIR$/HnAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hnapp/hnapp.iml" filepath="$PROJECT_DIR$/hnapp/hnapp.iml" />
+    </modules>
+  </component>
+</project>
